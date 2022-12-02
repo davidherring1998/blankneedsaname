@@ -13,3 +13,5 @@ https://davidherring1998.github.io/horiesonmarketingagencywebsite/
 
 
 Screenshots: 
+![Screen Shot 2022-12-01 at 9 40 31 PM](https://user-images.githubusercontent.com/106282330/205209796-d34e5394-9171-476b-a37a-4a1ad1a2e28d.png)
+![Screen Shot 2022-12-01 at 9 40 39 PM](https://user-images.githubusercontent.com/106282330/205209800-7dc67a39-72aa-4272-95ff-4cd861aaee58.png)
